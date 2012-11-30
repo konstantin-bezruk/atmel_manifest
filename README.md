@@ -1,0 +1,2 @@
+atmel_manifest
+==============
